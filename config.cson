@@ -1,0 +1,11 @@
+"*":
+  core: {}
+  editor:
+    invisibles: {}
+  "exception-reporting":
+    userId: "7645d344-7fc1-e50d-1cbb-b95e624bf139"
+  "markdown-writer": {}
+  "tree-view":
+    hideVcsIgnoredFiles: true
+  welcome:
+    showOnStartup: false
